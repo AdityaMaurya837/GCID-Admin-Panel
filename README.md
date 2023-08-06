@@ -5,7 +5,7 @@ Build a React Admin Dashboard App | React, Material UI, Data Grid
 Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/AdityaMaurya837/GCID-Admin-Panel.git
 
 2. Change directory to the project folder:
    cd your-repo
