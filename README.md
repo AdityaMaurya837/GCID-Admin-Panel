@@ -8,7 +8,7 @@ Installation
    git clone https://github.com/AdityaMaurya837/GCID-Admin-Panel.git
 
 2. Change directory to the project folder:
-   cd your-repo
+   cd Cybersecurity-admin-dashboard
 
 3. Install the required dependencies:
    npm install
