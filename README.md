@@ -16,3 +16,4 @@ Installation
 4. Start the development server:
    npm start
 
+![Screenshot (5)](https://github.com/AdityaMaurya837/GCID-Admin-Panel/assets/84954597/0d3e8252-1459-4122-b460-3f7f93f2cfbb)
